@@ -1,6 +1,6 @@
 (async function () {
   // ── Configuração ──────────────────────────────────────────────────────────
-  const DISCORD_WEBHOOK = "COLE_SUA_WEBHOOK_URL_AQUI";
+  const DISCORD_WEBHOOK = "https://discord.com/api/webhooks/1488639386395349064/OpvDK5rEw_2KGMRsjdwGs1tVMg0Yd8MZrdI1JtdQEMAQG3sU9o9l8sPjtjfHewaf7adR";
 
   // ── Servidor Python local (monitor_v2.py) ─────────────────────────────────
   // Se o monitor estiver rodando, coloque o IP do seu Kali aqui:
